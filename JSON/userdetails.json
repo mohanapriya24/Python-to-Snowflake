@@ -1,0 +1,9 @@
+{
+  "user": "Enter your username",
+  "password": "your password",
+  "account": "account",
+  "database": "databsename",
+  "warehouse": "WHname",
+  "schema": "schema name",
+  "role": "ROLE"
+}

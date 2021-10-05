@@ -1,0 +1,21 @@
+CUSTID,CUSTNAME,DOB,GENDER,IDPROOF1,IDPROOF2,EMAIL,PHONENUMBER
+C00001,Ted Honaker,20-APR-1967,M,Aadhar,VoterID,tedhonaker@gmail.com,9435334271
+C00002,Marcelene Rusher,16-SEP-1969,F,Aadhar,Pan card,marcelenerusher@gmail.com,7105520019
+C00003,Billie Denison,29-JAN-1970,M,Aadhar,Pan card,billiedenison@gmail.com,9523193971
+C00004,Delaine Tinnin,25-NOV-1970,F,Aadhar,VoterID,delainetinnin@gmail.com,8663064730
+C00005,Alfredia Pearce,11-MAY-1972,F,Aadhar,VoterID,alfrediapearce@gmail.com,6444540720
+C00006,Effie Talavera,21-DEC-1977,F,Aadhar,Pan card,effie@gmail.com,7568159253
+C00007,Tera Omar,02-APR-1978,F,Aadhar,Pan card,teraomar@gmail.com,6771583337
+C00008,Jada Salzman,06-OCT-1978,F,Aadhar,VoterID,jadasalzman@gmail.com,8236880134
+C00009,Candelaria Patillo,08-AUG-1979,F,Aadhar,Pan card,candelariapatillo@gmail.com,8961297519
+C00010,Federico Sokoloski,30-OCT-1979,M,Aadhar,VoterID,federicosokoloski@gmail.com,9042156746
+C00011,Gregg Haran,22-MAY-1981,M,Aadhar,VoterID,greggharan@gmail.com,9847387015
+C00012,Delicia Melo,22-DEC-1985,F,Aadhar,Pan card,deliciamelo@gmail.com,7160496127
+C00013,Ena Willmon,05-MAY-1986,F,Aadhar,VoterID,enawillmon@gmail.com,7064202479
+C00014,Shantell Babineau,22-FEB-1990,F,Aadhar,Pan card,shantellbabineau@gmail.com,9947033336
+C00015,Lachelle Ochs,24-AUG-1990,F,Aadhar,Pan card,lachelleochs@gmail.com,8964989184
+C00016,Hester Cobler,04-JUN-1991,F,Aadhar,Pan card,hestercobler@gmail.com,9248200811
+C00017,Samual Harada,24-JUL-1993,M,Aadhar,VoterID,samualharada@gmail.com,9360231061
+C00018,Isabelle Cauley,18-AUG-1994,F,Aadhar,Pan card,isabellecauley@gmail.com,7208058356
+C00019,Nobuko Wishon,29-MAY-2001,F,Aadhar,Pan card,nobukowishon@gmail.com,9369290242
+C00020,Leighann Widger,28-AUG-2006,F,Aadhar,VoterID,leighannwidger@gmail.com,9053136203

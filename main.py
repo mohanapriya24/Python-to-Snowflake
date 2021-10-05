@@ -4,8 +4,8 @@ import pandas
 import snowflake.connector
 try:
     errorOccurred = open('errorRecord.txt', 'w')
-    user = open(r'userdetails.json', 'r')
-    openmaster = open('MasterFile.csv', 'r')
+    user = open(r'JSON\\userdetails.json', 'r')
+    openmaster = open('CSV\\MasterFile.csv', 'r')
     master = openmaster.read()
     numberOfLinesInMaster = len(master.splitlines())
     #print("number of lines in master table",numberOfLinesInMaster)
@@ -112,7 +112,7 @@ try:
                 giveSchema = f'use schema {data["schema"]}'
                 run_query(connect, giveSchema)
                 try:
-                    with open("MasterFile.csv",
+                    with open("CSV\\MasterFile.csv",
                               'r') as OpenThisFirst:
                         masterF = csv.reader(OpenThisFirst)
                         for line in range(numberOfLinesInMaster):

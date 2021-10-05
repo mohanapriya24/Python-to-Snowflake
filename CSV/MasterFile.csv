@@ -1,15 +1,15 @@
-C:\\Users\\Mohana\\Desktop\\PythonSnowflakes\\CSV\\Testdata.csv,info
-C:\\Users\\Mohana\\Desktop\\PythonSnowflakes\\CSV\\CustomerDetails.csv,CustomerDetails, insert into dim_cust select * from CustomerDetails;
-C:\\Users\\Mohana\\Desktop\\PythonSnowflakes\\CSV\\CustomerAddress.csv,CustomerAddress
-C:\\Users\\Mohana\\Desktop\\PythonSnowflakes\\CSV\\StaffDetails.csv,StaffDetails
-C:\\Users\\Mohana\\Desktop\\PythonSnowflakes\\CSV\\StaffAddress.csv,StaffAddress
-C:\\Users\\Mohana\\Desktop\\PythonSnowflakes\\CSV\\AccountServices.csv,AccountServices
-C:\\Users\\Mohana\\Desktop\\PythonSnowflakes\\CSV\\AccountDetails.csv,AccountDetails
-C:\\Users\\Mohana\\Desktop\\PythonSnowflakes\\CSV\\ATMDetails.csv,ATMDetails
-C:\\Users\\Mohana\\Desktop\\PythonSnowflakes\\CSV\\BranchDetails.csv,BranchDetails
-C:\\Users\\Mohana\\Desktop\\PythonSnowflakes\\CSV\\BankingServices.csv,BankingServices, insert into dim_bnksrv select * from BankingServices;
-C:\\Users\\Mohana\\Desktop\\PythonSnowflakes\\CSV\\CustomerLoanDetails.csv,CustomerLoanDetails
-C:\\Users\\Mohana\\Desktop\\PythonSnowflakes\\CSV\\LoanDetails.csv,LoanDetails, insert into dim_loan select * from LoanDetails;
-C:\\Users\\Mohana\\Desktop\\PythonSnowflakes\\CSV\\Debit.csv,Debit
-C:\\Users\\Mohana\\Desktop\\PythonSnowflakes\\CSV\\Credit.csv,Credit
-C:\\Users\\Mohana\\Desktop\\PythonSnowflakes\\CSV\\TransactionDetails.csv,TransactionDetails
+CSV\\Testdata.csv,info
+CSV\\CustomerDetails.csv,CustomerDetails, insert into dim_cust select * from CustomerDetails;
+CSV\\CustomerAddress.csv,CustomerAddress
+CSV\\StaffDetails.csv,StaffDetails
+CSV\\StaffAddress.csv,StaffAddress
+CSV\\AccountServices.csv,AccountServices
+CSV\\AccountDetails.csv,AccountDetails
+CSV\\ATMDetails.csv,ATMDetails
+CSV\\BranchDetails.csv,BranchDetails
+CSV\\BankingServices.csv,BankingServices, insert into dim_bnksrv select * from BankingServices;
+CSV\\CustomerLoanDetails.csv,CustomerLoanDetails
+CSV\\LoanDetails.csv,LoanDetails, insert into dim_loan select * from LoanDetails;
+CSV\\Debit.csv,Debit
+CSV\\Credit.csv,Credit
+CSV\\TransactionDetails.csv,TransactionDetails

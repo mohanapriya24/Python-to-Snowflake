@@ -1,9 +1,10 @@
 # Python-to-Snowflake
-This program Connect python and snowflake using json and insertvalues to the existing table and do select statement in python.
-add python interpreters snowflake.connector and pandas.
-Enter your snowflake accounts username, password, account, warehouse, database, schema, role in the json file.
-This will connect the snowflake account to python using snowflake.connector.
-Enter the path correctly where the json and csv file is placed.
-The master csv file contains the link to the location of the csv files that are to be inserted and next to that will be the table name in your snowflake account to which the values are to be inserted.
-Make sure that the table column and the csv file contains same number of attributes and datatype of the attributes.
-If there is any error it will be inserted in the errorRecord.txt file.
+* This program is to create connection between python and snowflake using json.
+* The process is possible by adding interpreters such as **snowflake.connector** and **pandas** in the python.
+* Open the json file and enter your snowflake accounts username, password, account, warehouse, database, schema, role in the specified area.
+* The path for json and csv file should be mentioned properly in the python code.
+* This will help in connecting the python with your snowflake account using snowflake.connector interpreter.
+* After connection is established we can insert new data to the existing table and view the data using select statement.
+* The master csv file contains the link to the location of the csv files which are to be inserted followed by the table name wich is available in your snowflake account where the data should be inserted.
+* Verify if the table in snowflake and data in csv file contains same number of attributes and datatype to avoid errors.
+* If any error occures it will be maintained in the errorRecord.txt file for references.
